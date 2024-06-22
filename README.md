@@ -4,3 +4,7 @@
 data.py: Contains the countries' data.
 main.py: The beta terminal version of the game.
 game.py: The main game with a graphical user interface (GUI).
+
+Note: Read Through the comments once
+
+Add more countries as you like :)
