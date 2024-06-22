@@ -1,3 +1,2 @@
-Guess the country is basic guessing game made using Python. The game is based on guessing the country using the silhouttes with a total of 5 guesses and a hint after every guess about the direction of the country and distance from the country you guessed
 
-Note: The game is based on Mercator projection so the distance is calculated using Pythagoras formula(Flat Surface distance) and not using Haversine formula(Curved SUrface Distance) 
+"Guess the Country" is a basic guessing game made using Python. The objective is to guess the country based on its silhouette. Players have a total of 5 guesses. After each incorrect guess, a hint is provided, indicating the direction and distance (calculated using the Pythagorean theorem) from the guessed country to the target country. Note: The game uses the Mercator projection, so distances are measured as if on a flat surface, not taking the Earth's curvature into account (as would be done with the Haversine formula).
